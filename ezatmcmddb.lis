@@ -1,0 +1,9 @@
+
+Pro*C/C++: Release 10.2.0.1.0 - Production on Mon Apr 11 17:50:34 2016
+
+Copyright (c) 1982, 2005, Oracle.  All rights reserved.
+
+Error at line 5, column 11 in file ezatmcmddb.pc
+     5  # include <ezbusiness/ezbusinesstypes.h>
+     5  ..........1
+     5  PCC-S-02015, unable to open include file
