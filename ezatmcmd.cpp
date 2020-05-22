@@ -11,7 +11,7 @@ EzATMcmd :: ~EzATMcmd()
 {
 
 }
-
+//code starting from here.
 int EzATMcmd :: InitEzATMcmd( )
 {
     char logpath[ LOG_PATH_SIZE + 1 ];
