@@ -89,6 +89,7 @@ int EzATMcmd :: InitEzATMcmd( )
 	return 1;
 }
 
+// Print code
 void EzATMcmd :: PrintManageHelp()
 {
 	printf( "\n\tlistfit all");
